@@ -18,8 +18,11 @@ public class Chrome {
 		//shortcutKey of type char with a value of 'C'
 		char shortcutKey = 'C';
 		
-		System.out.println("Version is "+version+", "+"Developer is "+developer+", "+"isBeta is "+isBeta+", "+"Releaseyear is "+releaseYear+", "+"Shortcutkey is "+shortcutKey);
-		
+		System.out.println("Version is "+version+",");
+		System.out.println("Developer is "+developer+",");
+		System.out.println("isBeta is "+isBeta+",");
+		System.out.println("Releaseyear is "+releaseYear+",");
+		System.out.println("Shortcutkey is "+shortcutKey+".");
 	}
 
 }
